@@ -1,18 +1,14 @@
 {
   "name": "alurageek-api",
   "version": "1.0.0",
-  "description": "Products for Alura Geek fake store api",
+  "description": "AluraFlix Fake API",
   "main": "index.js",
   "scripts": {
     "start": "node api/server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/SofiDevO/alurageek-API.git"
-  },
   "keywords": [
     "alura",
-    "alurageek",
+    "aluraFLIX",
     "json-server",
     "javascript",
     "API"
