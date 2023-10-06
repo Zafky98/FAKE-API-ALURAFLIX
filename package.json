@@ -17,12 +17,11 @@
     "javascript",
     "API"
   ],
-  "author": "Sofidev, contact@itssofi.dev",
+  "author": "Daniel Gonzalez, dfgonzalez068@misena.edu.co",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SofiDevO/alurageek-API/issues"
+    "url": https://github.com/Zafky98"
   },
-  "homepage": "https://github.com/SofiDevO/alurageek-API#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
