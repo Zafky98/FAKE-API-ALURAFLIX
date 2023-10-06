@@ -98,33 +98,6 @@
       "codigoSeguridad": "555555555",
       "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685821856/q58g3swdjnxv30u3jkux.png",
       "id": 16
-    },
-    {
-      "titulo": "video categoria de prueba",
-      "linkVideo": " https://www.youtube.com/watch?v=rpvrLaBQwgg",
-      "Categoria": "Categoria de  prueba",
-      "descripcion": "prueba categoria",
-      "codigoSeguridad": "xxxxxxx",
-      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685822079/hggapt3l9hsd9x7n4qqi.png",
-      "id": 17
-    },
-    {
-      "titulo": "cancion",
-      "linkVideo": "https://www.youtube.com/watch?v=LTEZm5AYslw&ab_channel=MotherMother",
-      "Categoria": "Asad",
-      "descripcion": "asda",
-      "codigoSeguridad": "12345",
-      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1695921002/d0dsqhdplefcpabuznqs.png",
-      "id": 18
-    },
-    {
-      "titulo": "cancion",
-      "linkVideo": "https://www.youtube.com/watch?v=LTEZm5AYslw&ab_channel=MotherMother",
-      "Categoria": "Asad",
-      "descripcion": "asda",
-      "codigoSeguridad": "12345",
-      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1695921003/mcd6tc0ct8hsd2jbrdjw.png",
-      "id": 19
     }
   ],
   "categorias": [
