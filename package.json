@@ -16,7 +16,7 @@
   "author": "Daniel Gonzalez, dfgonzalez068@misena.edu.co",
   "license": "MIT",
   "bugs": {
-    "url": https://github.com/Zafky98"
+    "url": "https://github.com/Zafky98"
   },
   "dependencies": {
     "cors": "^2.8.5",
